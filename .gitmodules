@@ -1,6 +1,7 @@
 [submodule "DASH"]
 	path = DASH
-	url = https://github.com/Dash-Industry-Forum/DASH
+	url = https://github.com/dfisc/DASH.git
+        branch = schematron-bugfix
 [submodule "ISOSegmentValidator"]
 	path = ISOSegmentValidator
 	url = https://github.com/Dash-Industry-Forum/ISOSegmentValidator
